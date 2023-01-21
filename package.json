@@ -1,0 +1,25 @@
+{
+    "name": "ortalama",
+    "version": "1.0.0",
+    "description": "Konsola girilen sayıların aritmetik ortalamasını alır.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/efeeozc/ortalama.git"
+    },
+    "keywords": [],
+    "author": "efeeozc",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/efeeozc/ortalama/issues"
+    },
+    "homepage": "https://github.com/efeeozc/ortalama",
+    "devDependencies": {},
+    "dependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
